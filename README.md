@@ -1,4 +1,4 @@
-# Klickpages
+# nata.house
 Aplicativo JavaScript que exibe quantas paradas são necessárias para completar uma viagem durante uma viagem no espaço sideral fictício.
 
 # Pré requisitos
