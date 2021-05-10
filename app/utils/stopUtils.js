@@ -6,7 +6,7 @@ module.exports = {
         let mglt = item.MGLT;
         let consumiveis = item.consumables.split(" ");
         let days = formatDate(consumiveis);
-        let result = parseInt(param / (mglt * days * 24))
+        let result = Math.round(param / (mglt * days * 24))
         return result;
     }
     
